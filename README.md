@@ -158,9 +158,9 @@ streamlit run dashboard_app.py
 
 ## 🙌 Credits
 
-Built by **Abhiraj**  
+Built by **Adityaraj Sanjay Belhe**  
 AI Researcher | Multi-Agent System Builder | LLM Enthusiast  
-📫 [abhiraj.gadade@uma.edu.pe](mailto:abhiraj.gadade@uma.edu.pe)
+📫 [adityarajbelhe007@gamil.com](mailto:adityarajbelhe007@gamil.com)
 
 ---
 
