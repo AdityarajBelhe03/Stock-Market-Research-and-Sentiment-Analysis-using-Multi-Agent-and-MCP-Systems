@@ -1,8 +1,8 @@
-openrouter_api_key: "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"
-deepseek_model: "deepseek/deepseek-chat-v3-0324:free"
+openrouter_api_key: ""
+deepseek_model: ""
 
-alpha_vantage_api_key: "ORNJKPJVM85YRUL9"
-finnhub_api_key: "d0eugfhr01qsrhco119gd0eugfhr01qsrhco11a0"
+alpha_vantage_api_key: ""
+finnhub_api_key: ""
 
 default_symbol: "AAPL"
 default_user_query: "Is this stock worth short-term investment based on current news and chart movement?"
